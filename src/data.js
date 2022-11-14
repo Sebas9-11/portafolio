@@ -34,6 +34,7 @@ export const skills = [
   "Firebase",
   "Java",
   "Git",
+  "Swift",
 ];
 
 export const certificates = [
