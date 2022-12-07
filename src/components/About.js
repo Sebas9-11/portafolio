@@ -1,5 +1,5 @@
 import cv from "../../src/utils/Andres_Barrios_Cv.pdf";
-import portada from "../../src/assets/image/portada.jpeg";
+import portada from "../../src/assets/image/Frontend.jpg";
 
 export default function About() {
   return (
