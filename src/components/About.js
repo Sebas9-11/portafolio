@@ -12,7 +12,7 @@ export default function About() {
             programar apps moviles.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Programador frontend, estudiante de ingeniería de sistemas de
+            Programador movil frontend, estudiante de ingeniería de sistemas de
             últimos semestres, programo y aprendo nuevas tecnologías encontrando
             soluciones a través de las mismas.
           </p>

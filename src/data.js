@@ -25,14 +25,10 @@ export const projects = [
 
 export const skills = [
   "JavaScript",
-  "React",
-  "Tailwind CSS",
-  "React Native",
-  "HTML",
-  "CSS",
+  "React & React Native",
+  "HTML & CSS",
   "MySQL",
   "Firebase",
-  "Java",
   "Git",
   "Swift",
 ];
