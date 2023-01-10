@@ -1,6 +1,8 @@
 import shark from "../src/assets/image/sharkIcon.png";
 import unilibre from "../src/assets/image/logoUnilibre.png";
 import coder from "../src/assets/image/coderHouse.png";
+import ciber from "../src/assets/image/ciberSeguridad.jpg";
+import IOT from "../src/assets/image/IT.jpg";
 
 export const projects = [
   {
@@ -25,16 +27,15 @@ export const projects = [
 
 export const skills = [
   "JavaScript",
-  "React",
+  "React & React Native",
   "Tailwind CSS",
-  "React Native",
+  "API",
   "HTML",
   "CSS",
   "MySQL",
   "Firebase",
   "Java",
   "Git",
-  "Swift",
 ];
 
 export const certificates = [
@@ -44,5 +45,17 @@ export const certificates = [
     description:
       "Curso de desarrollo de aplicaciones moviles con react native y firebase",
     image: coder,
+  },
+  {
+    title: "Cybersecurity Essentials",
+    subtitle: "Cybersecurity",
+    description: "Curso de seguridad informatica",
+    image: ciber,
+  },
+  {
+    title: "Internet of Things",
+    subtitle: "Internet of Things",
+    description: "Curso de internet de las cosas",
+    image: IOT,
   },
 ];

@@ -5,7 +5,7 @@ export default function Skills() {
   return (
     <section id="skills">
       <div className="container px-5 py-10 mx-auto">
-        <div className="text-center mb-20">
+        <div className="text-center mb-5">
           <h1 className="sm:text-4xl text-3xl font-medium title-font text-white mb-4">
             Habilidades y Tecnologías
           </h1>

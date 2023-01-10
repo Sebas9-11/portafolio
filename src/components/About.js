@@ -27,13 +27,11 @@ export default function About() {
               href="#projects"
               className="ml-4 inline-flex text-gray-400 items-center bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg"
             >
-              Mira mis trabajos anteriores
+              Trabajos realizados
             </a>
-          </div>
-          <div className="flex justify-center mt-4">
             <a href={cv} download={cv}>
               <button className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
-                Descarga mi CV
+                Descargar CV
               </button>
             </a>
           </div>

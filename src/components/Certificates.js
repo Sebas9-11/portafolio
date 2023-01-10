@@ -4,7 +4,7 @@ export default function Certificate() {
   return (
     <section id="certificates" className="text-gray-400 bg-gray-900 body-font">
       <div className="container px-5 py-24 mx-auto">
-        <div className="text-center mb-20">
+        <div className="text-center mb-10">
           <h1 className="sm:text-4xl text-3xl font-medium title-font text-white ">
             Certificados
           </h1>
