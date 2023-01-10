@@ -27,9 +27,9 @@ export const projects = [
 
 export const skills = [
   "JavaScript",
-  "React",
+  "React & React Native",
   "Tailwind CSS",
-  "React Native",
+  "API",
   "HTML",
   "CSS",
   "MySQL",
